@@ -1,3 +1,3 @@
-import streamlit_app
+import streamlit
 
-streamlit_app.title('My Parents New Healthy Diet')
+streamlit.title('My Parents New Healthy Diet')
